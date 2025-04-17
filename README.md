@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion:
+ * @Author: zhuaoqi
+ * @Date: 2025-04-17 16:03:17
+ * @LastEditors: zhuaoqi
+ * @LastEditTime: 2025-04-17 16:45:38
+-->
+
 # Langchain Knowledge Base
 
 这是一个基于 LangChain 的知识库项目，包含以下内容：
@@ -16,3 +24,5 @@
 - `models/`: 模型文件
 - `utils/`: 工具脚本
 - `volumes/`: 数据库存储卷
+
+###
